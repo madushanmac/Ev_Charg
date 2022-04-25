@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dea0c6c0-05e7-4e41-8924-e382be884549" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EV_CHARG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Extension State/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Extension State/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Extension State/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Extension State/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Favicons" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Favicons" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/GCM Store/Encryption/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/GCM Store/Encryption/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/GCM Store/Encryption/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/GCM Store/Encryption/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/History" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/History" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/History-journal" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/History-journal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Local Storage/leveldb/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Local Storage/leveldb/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Local Storage/leveldb/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Local Storage/leveldb/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Network Action Predictor" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Network Action Predictor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Network/Cookies" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Network/Cookies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Network/Network Persistent State" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Network/Network Persistent State" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Network/Reporting and NEL" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Network/Reporting and NEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Network/TransportSecurity" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Network/TransportSecurity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Preferences" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Preferences" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/QuotaManager" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/QuotaManager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/QuotaManager-journal" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/QuotaManager-journal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Service Worker/Database/000003.log" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Service Worker/Database/000003.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Service Worker/Database/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Service Worker/Database/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Service Worker/Database/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Service Worker/Database/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Service Worker/ScriptCache/index-dir/the-real-index" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Service Worker/ScriptCache/index-dir/the-real-index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Session Storage/000003.log" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Session Storage/000003.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Session Storage/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Session Storage/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Session Storage/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Session Storage/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Site Characteristics Database/000003.log" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Site Characteristics Database/000003.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Site Characteristics Database/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Site Characteristics Database/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Site Characteristics Database/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Site Characteristics Database/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Sync Data/LevelDB/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Sync Data/LevelDB/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Sync Data/LevelDB/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Sync Data/LevelDB/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Trusted Vault" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Trusted Vault" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Visited Links" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Visited Links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Web Data" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/Web Data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/000003.log" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/000003.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/metadata/000003.log" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/metadata/000003.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/metadata/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/metadata/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/metadata/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/chrome-device/Default/shared_proto_db/metadata/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/c075001b96339384a97db4862b8ab8db.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/c075001b96339384a97db4862b8ab8db.cache.dill.track.dill" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ev_chargapp/generatedhome_page1widget/GeneratedHome_Page1Widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ev_chargapp/generatedhome_page1widget/GeneratedHome_Page1Widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ev_chargapp/generatedtopupwidget/GeneratedTopupWidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ev_chargapp/generatedtopupwidget/GeneratedTopupWidget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ev_chargapp/generatedtopupwidget/generated/GeneratedAccountbalanceWidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ev_chargapp/generatedtopupwidget/generated/GeneratedAccountbalanceWidget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ev_chargapp/generatedtopupwidget/generated/GeneratedWifiWidget3.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ev_chargapp/generatedtopupwidget/generated/GeneratedWifiWidget3.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="280JMX3tvAcbXNf7RQ2C7x7DlgW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dea0c6c0-05e7-4e41-8924-e382be884549" name="Default Changelist" comment="" />
+      <created>1650347522252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650347522252</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
